@@ -29,7 +29,7 @@
               "url": "https://www.google.com/search?q=edge+delivery+services",
               "passConfig":true,
               "passReferrer": true,
-              "includePaths": [ "**.docx**" ],
+              "includePaths": [ "**.docx**" ]
               
         }
     ]
