@@ -10,6 +10,16 @@
             "url": "https://main--aem-boilerplate-commerce--hlxsites.hlx.live/tools/picker/dist/index.html",
             "isPalette": true,
             "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
+        },
+        {
+            "id": "aem-asset",
+            "title": "AEM Assets",
+            "environments": [
+                "edit"
+            ],
+            "URL" : "https://stock.adobe.com/in/search/images?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Binclude_stock_enterprise%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=uses+case&order=relevance&limit=100&search_page=2&search_type=pagination&acp=&aco=uses+case&get_facets=0",
+            "isPalette": true,
+            "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)"
         }
     ]
 }
