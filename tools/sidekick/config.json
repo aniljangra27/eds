@@ -13,10 +13,8 @@
         },
         {
             "id": "freepik",
-            "title": "freepik tool",
-            "environments": [
-                "edit", "dev"
-            ],
+            "title": "freepik",
+            "environments": "edit",
             "url": "https://www.freepik.com/free-photos-vectors/it-asset-management",
             "isPalette": true,
             "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
