@@ -12,10 +12,20 @@
             "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
         },
         {
+            "id": "freepik",
+            "title": "freepik tool",
+            "environments": [
+                "edit", "dev"
+            ],
+            "url": "https://www.freepik.com/free-photos-vectors/it-asset-management",
+            "isPalette": true,
+            "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
+        },
+        {
             "id": "asset-library",
             "title": "AEM Assets",
             "environments": [
-            "edit","dev"
+            "edit","dev",
             ],
             "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
             "isPalette": true,
